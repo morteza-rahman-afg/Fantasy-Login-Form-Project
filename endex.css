@@ -1,14 +1,18 @@
 @font-face {
   font-family: "Vazir Light";
   src: local("Vazir Light"), local("Vazir-Light"),
-    url("../018/fonts/ttf/Vazirmatn-Light.ttf") format("truetype"),
-    url("../018/fonts/woff2/Vazirmatn-Light.woff2") format("woff2");
+    url("../Fantasy-Login-Form-Project/fonts/ttf/Vazirmatn-Light.ttf")
+      format("truetype"),
+    url("../Fantasy-Login-Form-Project/fonts/woff2/Vazirmatn-Light.woff2")
+      format("woff2");
 }
 @font-face {
   font-family: "vazir Bold";
-  src: local("Vazir Bold") url("../018/fonts/ttf/Vazirmatn-Black.ttf")
+  src: local("Vazir Bold")
+      url("../Fantasy-Login-Form-Project/fonts/ttf/Vazirmatn-Black.ttf")
       format("truetype"),
-    url("../018/fonts/woff2/Vazirmatn-SemiBold.woff2") format("woff2");
+    url("../Fantasy-Login-Form-Project/fonts/woff2/Vazirmatn-SemiBold.woff2")
+      format("woff2");
 }
 body {
   font-family: "Vazir Light";
